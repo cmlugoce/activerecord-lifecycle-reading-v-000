@@ -18,5 +18,5 @@ class Post < ActiveRecord::Base
   end
 
   def email_author_about_post
-  end 
+  end
 end
